@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'xiaomook.com',
   HEO_HERO_TITLE_4: '资源推荐',
   HEO_HERO_TITLE_5: '最新资源推荐',
-  HEO_HERO_TITLE_LINK: '/recomment',
+  HEO_HERO_TITLE_LINK: '/recommend',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
