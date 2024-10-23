@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    // { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
+    { title: '点我教你0元0基础搭建与本站一模一样的网站点我', url: 'https://mall.17yong.xyz?cid=2&mid=2' },
     // { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],
 
@@ -51,7 +51,7 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/wodafei',
+  HEO_INFO_CARD_URL2: '',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://xiaomook.com',
   HEO_INFO_CARD_TEXT3: '了解更多',
