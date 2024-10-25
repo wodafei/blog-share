@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: '分享网盘资源',
+  HEO_HERO_TITLE_2: '与视频教程',
   HEO_HERO_TITLE_3: 'xiaomook.com',
   HEO_HERO_TITLE_4: '资源推荐',
   HEO_HERO_TITLE_5: '最新资源推荐',
