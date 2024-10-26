@@ -107,10 +107,10 @@ const ExternalPlugin = props => {
       }, 3000)
     }
 
-    // setTimeout(() => {
-    //   // 映射url
-    //   convertInnerUrl(props?.allNavPages)
-    // }, 500)
+    setTimeout(() => {
+      // 映射url
+      convertInnerUrl(props?.allNavPages)
+    }, 500)
   }, [router])
 
   useEffect(() => {
